@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+type: software
+title: "rigor: research-integrity-statistics, an Agent Skill for Claude"
+abstract: "An Agent Skill for Claude that carries research-integrity practice into the written deliverable when an analysis, or the way it is reported, is changed after the results were seen."
+authors:
+  - family-names: Siordia
+    given-names: Carlos
+version: 1.0.0
+date-released: 2026-10-25
+repository-code: "https://github.com/KarlozSiordia/rigor"
+license: Apache-2.0
+keywords:
+  - research integrity
+  - statistics
+  - reproducibility
+  - agent skills
+  - claude

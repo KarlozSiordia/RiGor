@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.*
+
+# Build output of scripts/package_skill.py
+dist/
+*.skill
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code per-machine settings
+.claude/settings.local.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~

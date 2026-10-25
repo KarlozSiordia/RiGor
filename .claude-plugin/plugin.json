@@ -1,0 +1,11 @@
+{
+  "name": "rigor",
+  "version": "1.0.0",
+  "description": "Carries research-integrity practice into the written deliverable when an analytical decision is made after results were seen.",
+  "author": {
+    "name": "Carlos Siordia"
+  },
+  "homepage": "https://github.com/KarlozSiordia/rigor",
+  "repository": "https://github.com/KarlozSiordia/rigor",
+  "license": "Apache-2.0"
+}

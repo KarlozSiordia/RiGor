@@ -1,0 +1,14 @@
+{
+  "name": "rigor",
+  "owner": {
+    "name": "Carlos Siordia"
+  },
+  "description": "One plugin, rigor, holding the research-integrity-statistics skill for Claude.",
+  "plugins": [
+    {
+      "name": "rigor",
+      "source": "./",
+      "description": "Carries research-integrity practice into the written deliverable when an analytical decision is made after results were seen."
+    }
+  ]
+}
